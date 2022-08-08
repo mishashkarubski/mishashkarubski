@@ -1,6 +1,8 @@
-<h1>Hello and welcome to my profile 🖖</h1>
+<h1>Hi there! 🖖</h1>
 
 My name is Mikhail Shkarubski and I am a student of Belarusian State University of Informatics and Radioelectorincs. Joking, I am 7 years old right now and I like Transformers and Fortinte.
+
+You can get in touch with me via [Telegram](https://t.me/insidioussix), Email, or just send me a paper letter.
 
 <h2>My current coding experience includes the following technologies:</h2>
   
@@ -26,7 +28,7 @@ My name is Mikhail Shkarubski and I am a student of Belarusian State University 
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<h2>Design experience tools I mostly use or used:</h2>
+<h2>Design experience and tools I mostly use or used:</h2>
 
    ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
    ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
@@ -37,11 +39,11 @@ My name is Mikhail Shkarubski and I am a student of Belarusian State University 
 
 <h2>I’m currently working on</h2>
 
-- Improving my personal website (https://alley.vercel.app) and several ML projects which are private by now.
+- *2022*: Improving my personal [website](https://alley.vercel.app), several Machine Learning projects which are private by now, redesigning my university’s student dashboard website, and some Blender projects.
 
-- At this moment I am mostly focused on learning **Python** (including related libs and frameworks such as **NumPy**, **SciPy**, **Pandas**, **Matplotlib**, etc.), **Theory of probability and mathematical statistics**, and **Machine Learning**. I am also continuously leaning **JavaScript** (all the same about frameworks) and **English** (my current level is C1). 
+<h2>I'm currently learning</h2>
 
-- You can get in touch with me via **Telegram** (@insidioussix), **Email** (michaelshkarubski@gmail.com), or just send me a paper letter.
+- *2022*: **Python** (including related libs and frameworks, such as **NumPy**, **SciPy**, **Pandas**, **Matplotlib**, etc.), **Theory of probability and mathematical statistics**, and **Machine Learning**. I am also continuously leaning **JavaScript** (all the same about frameworks) and English (my current level is C1). 
 
 <h2>Here's my GitHub stats</h2>
 
