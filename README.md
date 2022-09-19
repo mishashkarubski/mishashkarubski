@@ -2,7 +2,7 @@
 
 My name is Mikhail Shkarubski and I am a student of Belarusian State University of Informatics and Radioelectorincs. Joking, I am 7 years old right now and I like Transformers and Fortinte.
 
-You can get in touch with me via [Telegram](https://t.me/insidioussix), Email, or just send me a paper letter.
+You can get in touch with me via [Telegram](https://t.me/insidioussix), [Email](https://mail.google.com/mail/u/0/#inbox?compose=VpCqJTChKlPCGwVmSnrvBRjSbCmkqwdQgKMTGmxlNVmqcJGtSlNQxQmxcrgNbMXgSlXvfKG), or just send me a paper letter.
 
 <h2>My current coding experience includes the following technologies:</h2>
   
@@ -18,8 +18,6 @@ You can get in touch with me via [Telegram](https://t.me/insidioussix), Email, o
    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
    ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-<h2>Other near-coding skills:</h2>
-  
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
    ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
