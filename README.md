@@ -17,10 +17,6 @@ You can get in touch with me via [Telegram](https://t.me/insidioussix), Email, o
    
    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
    ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-   ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-   
-   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <h2>Other near-coding skills:</h2>
   
@@ -28,7 +24,7 @@ You can get in touch with me via [Telegram](https://t.me/insidioussix), Email, o
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
    ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-<h2>Design experience and tools I mostly use or used:</h2>
+<h2>Design experience and most favorite tools I use now or used in the past:</h2>
 
    ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
    ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
@@ -43,9 +39,9 @@ You can get in touch with me via [Telegram](https://t.me/insidioussix), Email, o
 
 <h2>I'm currently learning</h2>
 
-- *2022*: **Python** (including related libs and frameworks, such as **NumPy**, **SciPy**, **Pandas**, **Matplotlib**, etc.), **Theory of probability and mathematical statistics**, and **Machine Learning**. I am also continuously leaning **JavaScript** (all the same about frameworks) and English (my current level is C1). 
+- *2022*: **Python** (including related libs and frameworks, such as **NumPy**, **SciPy**, **Pandas**, **Matplotlib**, etc.), **Theory of probability and mathematical statistics**, and **Machine Learning**. I am also continuously leaning **JavaScript** (all the same about frameworks) and English (based on the International English Language Testing System (IELTS) my current level of the language is C1). 
 
-<h2>Here's my GitHub stats</h2>
+<h2>My GitHub stats</h2>
 
 [![Misha’s github stats](https://github-readme-stats.vercel.app/api?username=mishashkarubski)](https://github.com/mishashkarubski)
 
